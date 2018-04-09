@@ -40,3 +40,4 @@ All inputs and outputs use JSON format.
   POTS /{id}/order - Create order from cart
 
 ```
+https://www.linkedin.com/pulse/json-web-token-jwt-spring-security-real-world-example-boris-trivic
